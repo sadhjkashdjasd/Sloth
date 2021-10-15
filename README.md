@@ -6,7 +6,11 @@ In 1.15 changed some important things! If you already saw the tutorial pls chek 
 
 My own programming lang named sloth. Kind of slow, but shorter then python.
 
-How to setup? Download PLace somewhere (Recomandated is "C:/Sloth/") Add this directory to PATH.
+How to setup?
+
+`Video`: https://youtu.be/29iKTWRcSxE
+
+Download PLace somewhere (Recomandated is "C:/Sloth/") Add this directory to PATH.
 
 How to run? Open directory in cmd. Input sloth. Done.
 
