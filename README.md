@@ -1,6 +1,8 @@
-# Sloth 1.15
+# Sloth 1.151
 
-I changed some important things! If you already saw the tutorial pls chek again
+In 1.151 i added slygame (port of pygame to sloth) and some helpfull commands like turn and format.
+
+In 1.15 changed some important things! If you already saw the tutorial pls chek again
 
 My own programming lang named sloth. Kind of slow, but shorter then python.
 
