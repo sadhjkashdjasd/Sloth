@@ -1,4 +1,6 @@
-# Sloth 1.151
+# Sloth 1.152
+
+In 1.152 i did slygame update and some small usefull things. also many optimization.
 
 In 1.151 i added slygame (port of pygame to sloth) and some helpfull commands like turn and format.
 
